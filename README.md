@@ -37,7 +37,7 @@ Wizard akan memandu kamu langkah demi langkah: mulai dari membuat Google OAuth c
 node index.js
 ```
 
-**Pertama kali:**
+**Pas pertama kali:**
 1. Browser akan terbuka otomatis → login Google kamu → izinkan akses Drive & Sheets
 2. Scan QR Code WhatsApp yang muncul di terminal
 
