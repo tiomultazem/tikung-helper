@@ -15,7 +15,7 @@ Baileys (Node.js)
 
 ## Setup
 
-### 1. Clone & Instalasi
+### 1. Clone & Install
 
 ```bash
 git clone <repo-url>
