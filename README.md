@@ -38,7 +38,7 @@ node index.js
 ```
 
 **Pas pertama kali:**
-1. Browser akan terbuka otomatis → login Google kamu → izinkan akses Drive & Sheets
+1. Browser akan terbuka otomatis → login Google → izinkan akses Drive & Sheets
 2. Scan QR Code WhatsApp yang muncul di terminal
 
 **Selanjutnya:** session tersimpan, langsung terhubung tanpa langkah tambahan.
