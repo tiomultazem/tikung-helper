@@ -9,8 +9,8 @@ WhatsApp Group
     │ (gambar + caption)
     ▼
 Baileys (Node.js)
-    ├── Upload gambar → Google Drive (milik kamu)
-    └── Append caption → Google Sheets (milik kamu)
+    ├── Upload gambar → Google Drive (milikmu)
+    └── Append caption → Google Sheets (milikmu)
 ```
 
 ## Setup
