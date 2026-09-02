@@ -1,9 +1,0 @@
-node_modules/
-.env
-auth/
-tmp/
-data/processed.json
-config.json
-*.log
-artifacts/
-knowledge.md
